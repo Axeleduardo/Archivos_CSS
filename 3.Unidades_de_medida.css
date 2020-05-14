@@ -1,0 +1,12 @@
+body{ 
+     font-size: 20px; 
+ } 
+p{
+    font-size: 10px;
+}
+div p{
+font-size: 1em;
+background: yellowgreen;
+color: tomato;
+width: 20%;
+}

@@ -1,0 +1,23 @@
+h1,h2{
+    color: crimson;
+    font-size: 20;
+}
+*{
+    margin: 0cm;
+    padding: 0;
+}
+body{
+    background: black;
+}
+.color{
+    color: seashell;
+}
+p{
+    color: teal;
+}
+li a{
+    color: yellow;
+}
+div .p{
+    color: yellowgreen;
+}

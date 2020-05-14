@@ -1,0 +1,9 @@
+body{
+background: url(Logo-empresa.jpg);
+background-repeat: no-repeat;
+background-attachment: scroll;
+color: orangered;
+width: 1000px;
+height: 1000px;
+background-position: center;
+}
